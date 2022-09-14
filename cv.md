@@ -5,3 +5,4 @@
 <br>5. No code examples yet.
 <br>6. C++ basics in school, small course of Python.
 <br>7. Bachelor: VGTU, Biomechanic engineering. <br>Masters: VGTU, Biomechanic engineering.
+<br>8. I have studied English language in school and university. Also I have been in USA (Working and Travel) for 4 months.
