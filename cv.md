@@ -4,3 +4,4 @@
 <br>4.Skills: <br>4.1 Basics of c++. <br> 4.2 Working on JS.
 <br>5. No code examples yet.
 <br>6. C++ basics in school, small course of Python.
+<br>7. Bachelor: VGTU, Biomechanic engineering. <br>Masters: VGTU, Biomechanic engineering.
